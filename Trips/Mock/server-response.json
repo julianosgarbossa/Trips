@@ -13,8 +13,8 @@
             },
             {
                 "id": 2,
-                "titulo": "Aéreo + Hotel",
-                "subtitulo": "Pacote Bonito",
+                "titulo": "Pacote Bonito",
+                "subtitulo": "Aéreo + Hotel",
                 "asset": "bonito-brasil",
                 "diaria": 5,
                 "hospedes": 2,
@@ -24,8 +24,8 @@
             },
             {
                 "id": 3,
-                "titulo": "Aéreo + Hotel com café",
-                "subtitulo": "Porto de Galinhas",
+                "titulo": "Porto de Galinhas",
+                "subtitulo": "Aéreo + Hotel com café",
                 "asset": "porto-galinhas-brasil",
                 "diaria": 5,
                 "hospedes": 1,
